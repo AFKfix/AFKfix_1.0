@@ -2,7 +2,7 @@
 //
 // Based on Digispark libraries: https://digistump.com/
 // Moves mouse a sub-pixel amount then back again,
-// so OS doesn't lock the screen.
+// so the OS doesn't lock the screen.
 
 #include <DigiMouse.h>
 
